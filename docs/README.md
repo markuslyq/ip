@@ -17,7 +17,8 @@ Description of the feature.
 * Describe the action and its outcome.
 
 * Example of usage: 
-*   *Hi
+  * Hi
+  * Bye
 
 `keyword (optional arguments)`
 
