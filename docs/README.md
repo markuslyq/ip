@@ -14,9 +14,9 @@ Description of the feature.
 
 ### `Keyword` - Describe action
 
-Describe the action and its outcome.
+* Describe the action and its outcome.
 
-Example of usage: 
+* Example of usage: 
 
 `keyword (optional arguments)`
 
